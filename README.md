@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Computer_stereo_vision
 
 **SETUP USING ANACONDA IN WINDOWS**
 
+`cd stereo-vision/src`
+
 Create the virtual environment:  
 `conda env create -f setup.yml`
 
@@ -13,6 +15,5 @@ Activate the environment:
 `conda activate cv`
 
 Run the module:  
-`cd stereo-vision/src`  
 `python -m process_image`
 
