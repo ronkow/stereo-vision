@@ -1,6 +1,6 @@
 # stereo-vision
 
-Computer Stereo Vision is the extraction of 3D information of a scene from two images (which are 2D) of the scene taken from two different points. In this project, we use a method to visualise the relative depth of different points of a scene using a plot called a disparity map.  
+Computer Stereo Vision is the extraction of 3D information from two images of a scene taken from two different points. In this project, we use a method to visualise the relative depths of different points of a scene using a plot called a disparity map.  
 
 https://en.wikipedia.org/wiki/Computer_stereo_vision
 
